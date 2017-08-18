@@ -1,0 +1,20 @@
+#scroll
+
+signal view geometry 
+
+#grid in plots
+
+colorbar´î¤ÖªÅ¶¡
+
+multi channels
+
+superimpose(signal+stft...)
+
+#hop
+
+*deshape stft(code)
+
+
+
+
+
